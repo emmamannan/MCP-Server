@@ -29,8 +29,8 @@ This MCP server provides four main capabilities:
 
 ## 📂 How It Works
 
-The server stores notes in a local text file: notes.txt
-All interactions—adding notes, reading them, getting the latest note, and generating an AI summary prompt—are routed through MCP.
+The server stores notes in a local text file. All interactions—adding notes, reading them, getting the latest note, and generating an AI summary prompt—are routed through MCP.
+
 
 
 
